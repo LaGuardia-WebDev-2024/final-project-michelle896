@@ -1,7 +1,7 @@
 /* Styling Only Related To ALL Pages */
 
 body {
-  padding-top: 30px;
+  padding-top: 20px;
   margin-left: 0px;
   margin-right: 0px;
 }
@@ -26,14 +26,14 @@ ul.nav li {
 
 ul.nav li a {
   display: block;
-  color: white;
+  color: grey;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 ul.nav li a:hover:not(.active) {
-  background-color: yellow;
+  background-color: green;
 }
 
 ul.nav .active {
